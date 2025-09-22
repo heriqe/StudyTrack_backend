@@ -41,7 +41,3 @@ Este repositório do backend do StudyTrack agradece contribuições! Para colabo
 3.  Implemente suas alterações e faça o commit (`git commit -m 'feat: Adiciona nova funcionalidade de backend X'`).
 4.  Envie suas alterações para o seu fork (`git push origin feature/minha-nova-funcionalidade`).
 5.  Abra um Pull Request para a branch principal deste repositório, detalhando suas contribuições.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [Nome da Licença, ex: Licença MIT]. Consulte o arquivo `LICENSE` para mais detalhes.
